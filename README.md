@@ -1,5 +1,5 @@
 # kindle-tty
-
+### forked from https://bitbucket.org/ocampos/noxquest_kindle-tty
 Wouldn't it be cool to program on an e-ink device, like the kindle? Well, maybe not with the limited processing power of the kindle, but rather use it just as a screen? That is the purpose of this project! The refresh rate is not very good, but so far seems usable.
 
 ![kindle](kindle-tty.jpg)
